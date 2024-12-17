@@ -1,0 +1,117 @@
+{
+    "Overall": {
+        "Rank": 579742,
+        "Level": 1857,
+        "XP": 93869869
+    },
+    "Attack": {
+        "Rank": 798934,
+        "Level": 85,
+        "XP": 3442688
+    },
+    "Defence": {
+        "Rank": 1000310,
+        "Level": 80,
+        "XP": 1996994
+    },
+    "Strength": {
+        "Rank": 941120,
+        "Level": 90,
+        "XP": 5742620
+    },
+    "Hitpoints": {
+        "Rank": 1077098,
+        "Level": 88,
+        "XP": 4540693
+    },
+    "Ranged": {
+        "Rank": 1201037,
+        "Level": 83,
+        "XP": 2857345
+    },
+    "Prayer": {
+        "Rank": 826953,
+        "Level": 74,
+        "XP": 1127028
+    },
+    "Magic": {
+        "Rank": 465528,
+        "Level": 98,
+        "XP": 11951349
+    },
+    "Cooking": {
+        "Rank": 651760,
+        "Level": 86,
+        "XP": 3772036
+    },
+    "Woodcutting": {
+        "Rank": 1403971,
+        "Level": 70,
+        "XP": 743996
+    },
+    "Fletching": {
+        "Rank": 468303,
+        "Level": 88,
+        "XP": 4390853
+    },
+    "Fishing": {
+        "Rank": 247533,
+        "Level": 92,
+        "XP": 6526588
+    },
+    "Construction": {
+        "Rank": -1,
+        "Level": 1,
+        "XP": -1
+    },
+    "Crafting": {
+        "Rank": 236913,
+        "Level": 93,
+        "XP": 7918333
+    },
+    "Smithing": {
+        "Rank": 105573,
+        "Level": 99,
+        "XP": 13040188
+    },
+    "Mining": {
+        "Rank": 827014,
+        "Level": 75,
+        "XP": 1212350
+    },
+    "Herblore": {
+        "Rank": 877419,
+        "Level": 70,
+        "XP": 753709
+    },
+    "Agility": {
+        "Rank": 299359,
+        "Level": 83,
+        "XP": 2728180
+    },
+    "Thieving": {
+        "Rank": 36562,
+        "Level": 99,
+        "XP": 16436521
+    },
+    "Slayer": {
+        "Rank": 1028077,
+        "Level": 72,
+        "XP": 944945
+    },
+    "Farming": {
+        "Rank": 713494,
+        "Level": 80,
+        "XP": 1991042
+    },
+    "Runecraft": {
+        "Rank": 674531,
+        "Level": 65,
+        "XP": 469744
+    },
+    "Hunter": {
+        "Rank": 1192416,
+        "Level": 62,
+        "XP": 343015
+    }
+}
